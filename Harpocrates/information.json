@@ -1,0 +1,70 @@
+{
+  "description": "",
+  "list": [
+    {
+      "title": "**Use a unique password for every site**",
+      "description": "Although this will require a need for a password manager, it prevents a leaked password being used in multiple places.",
+      "link": "https://us.norton.com/internetsecurity-privacy-password-security.html"
+    },
+    {
+      "title": "**Never click links in emails related to accounts**",
+      "description": "It is always safer to log into your account and manage it directly from the site instead of trusting an email.",
+      "link": "https://www.centurylink.com/home/help/internet/security/tips-for-email-safety.html"
+    },
+    {
+      "title": "**Use a VPN**",
+      "description": "While most good VPNs cost money, they are often a good investment for your privacy. Try NordVPN, Norton, or Surfshark.",
+      "link": "https://nordvpn.com/offer/what-is-a-vpn/"
+    },
+    {
+      "title": "**Keep applications up to date**",
+      "description": "Patches for apps usually include security updates so it is always good to stay updated.",
+      "link": "https://it.newschool.edu/services/security/information-security-handbook/keep-applications-to-date"
+    },
+    {
+      "title": "**Try using a different browser**",
+      "description": "Many browsers exist that allow users to keep their data hidden unlike many larger browsers such as Google Chrome.",
+      "link": "https://spreadprivacy.com/why-use-duckduckgo-instead-of-google/"
+    },
+    {
+      "title": "**Use complex passwords**",
+      "description": "Always try to use strong passwords that contain a mix of uppercase letters, lowercase letters, numbers, and special characters.",
+      "link": "https://support.google.com/accounts/answer/32040?hl=en"
+    },
+    {
+      "title": "**Be careful about app permissions**",
+      "description": "Always check to see what permissions apps you download have, don't allow access to unnesessary data.",
+      "link": "https://www.makeuseof.com/tag/important-smartphone-app-permissions/"
+    },
+    {
+      "title": "**Don't skip through automatic downloads**",
+      "description": "Often times downloads might try to install additional content like browser extensions or other software that you might not want.",
+      "link": "https://www.howtogeek.com/168691/how-to-avoid-installing-junk-programs-when-downloading-free-software/"
+    },
+    {
+      "title": "**Use 2-factor authentication**",
+      "description": "2-factor authentication ensures that even if your email is compromised your accounts stay safe.",
+      "link": "https://us.norton.com/internetsecurity-how-to-importance-two-factor-authentication.html"
+    },
+    {
+      "title": "**Always be wary of scams and phishing attempts**",
+      "description": "Most scams online require you to give away information unintentionally, so always being mindful when reading emails is one of the most important things you can do.",
+      "link": "https://www.consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams"
+    },
+    {
+      "title": "**Avoid accessing sensitive data on public wifi**",
+      "description": "Try to avoid logging into accounts or accessing important information when on an unsecured or public network.",
+      "link": "https://www.consumer.ftc.gov/articles/how-safely-use-public-wi-fi-networks"
+    },
+    {
+      "title": "**Avoid account sharing**",
+      "description": "While you might feel comfortable trusting your friends with an account you own, they might share it with their friends who you don't trust.",
+      "link": "https://logicalread.com/top-seven-reasons-why-you-should-not-share-your-passwords/#.Ye2DS_7MIuU"
+    },
+    {
+      "title": "**Avoid keeping sensitive data accessible**",
+      "description": "Screenshots of important information, or important emails become a lot harder to leak if you avoid creating them or keeping them on your devices for long periods of time.",
+      "link": "http://www.buffalo.edu/ubit/news/article.host.html/content/shared/www/ubit/news/2019/keep-sensitive-data-safe.detail.html"
+    }
+  ]
+}
